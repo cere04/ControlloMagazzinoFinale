@@ -1,0 +1,5 @@
+Mario, Rossi, Magazziniere, M.Rossi1M
+Giovanni, Bianchi, Commesso, G.Bianchi2C
+Sergio, Verdi, Responsabile Commerciale, S.Verdi3R
+Luca, Zitto, Amministratore, L.Zitto4A
+Nicola, Cesaretti, Magazziniere, N.Cesaretti5M
